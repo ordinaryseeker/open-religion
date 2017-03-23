@@ -8,4 +8,4 @@ layout: page
 permalink: http://www.openreligion.us/
 published: true
 ---
-This is your front page. Click the 'edit' link to change the contents
+<h3><a href="http://www.openreligion.us/toc/introduction/">Introduction</a></h3>
