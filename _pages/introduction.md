@@ -5,7 +5,8 @@ author: ordinaryseeker
 post_date: 2017-01-26 08:13:33
 post_excerpt: ""
 layout: page
-permalink: http://www.openreligion.us/introduction/
+permalink: >
+  http://www.openreligion.us/home/introduction/
 published: true
 ---
 We live in a magical world. Not the kind of magic we see in movies or in magic shows but a kind of magic that is almost invisible to us unless we take the effort to stop, observe and ponder. Why is there something in the universe rather than nothing? Why are there billions of stars? Why does life exist on Earth? How does life form out of lifeless material? How does life diversify into millions of different species? How does life acquire consciousness? These questions have troubled thinkers for millennia. Arguably the list of magical phenomena was even longer until just a few centuries ago. Everything from thunder to tides to human diseases required supernatural explanations. The human mind wants answers and it is not shy to invent them when none are within easy grasp.
