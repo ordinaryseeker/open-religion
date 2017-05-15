@@ -22,4 +22,4 @@ Yearly Rituals
 
 Life Milestone Rituals
 
-&nbsp;
+[maxbutton id="1" text="Ten Commandments &gt;" url="http://www.openreligion.us/toc/the-ten-commandments/"]
