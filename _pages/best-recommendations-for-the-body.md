@@ -9,4 +9,10 @@ permalink: >
   http://www.openreligion.us/toc/how-to-treat-oneself/best-recommendations-for-the-body/
 published: true
 ---
+<h3>Motivation</h3>
 A collection of intuitive and non-intuitive recommendations for keeping the body in top form. No one size fits all, provide options to pick and choose along with pro and cons.
+
+&nbsp;
+<h3>Content</h3>
+&nbsp;
+<h3>References</h3>
