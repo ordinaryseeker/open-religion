@@ -9,18 +9,13 @@ permalink: >
   http://www.openreligion.us/toc/the-story-so-far/the-god-question/
 published: true
 ---
-Motivation
-
-Analyzing the evidence for a God as traditionally conceptualized in the light of modern discoveries and speculations on alternatives
-
-Content
-
+<h3>Motivation</h3>
+Analyzing the evidence for a God as traditionally conceptualized in the light of modern discoveries and speculations on alternatives.
+<h3>Content</h3>
 &nbsp;
 
 &nbsp;
-
-References
-
+<h3>References</h3>
 &nbsp;
 
 &nbsp;
