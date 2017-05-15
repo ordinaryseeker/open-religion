@@ -9,4 +9,10 @@ permalink: >
   http://www.openreligion.us/toc/how-to-treat-others/non-human-life-and-the-commons/
 published: true
 ---
-How should a conscious species treat other species that may or may not be conscious and how should it treat the common habitat shared by all
+<h3>Motivation</h3>
+How should a conscious species treat other species that may or may not be conscious and how should it treat the common habitat shared by all?
+<h3>Content</h3>
+<h3>References</h3>
+&nbsp;
+
+[maxbutton id="1" text="Rituals &gt;" url="http://www.openreligion.us/toc/rituals/"]
