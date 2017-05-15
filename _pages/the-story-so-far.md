@@ -9,4 +9,4 @@ permalink: >
   http://www.openreligion.us/toc/the-story-so-far/
 published: true
 ---
-A concise yet insightful history of the world
+To bring all of us on the same page, we must review a very concise yet insightful history of the human journey and the implications of some of the major discoveries on the central character of most religions, God.
