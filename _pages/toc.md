@@ -8,4 +8,4 @@ layout: page
 permalink: http://www.openreligion.us/toc/
 published: true
 ---
-Navigate using the Menu above or click on the chapters below
+Navigate using the Menu above or click on the chapter title below. If this is your first read, we recommend reading it in the order provided below.
