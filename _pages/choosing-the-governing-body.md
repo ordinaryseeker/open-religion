@@ -9,4 +9,10 @@ permalink: >
   http://www.openreligion.us/toc/organizing-open-religion/choosing-the-governing-body/
 published: true
 ---
+<h3>Motivation</h3>
 How to choose the governing body to ensure openness, accuracy and effectiveness of Open Religion?
+
+&nbsp;
+<h3>Content</h3>
+&nbsp;
+<h3>References</h3>
