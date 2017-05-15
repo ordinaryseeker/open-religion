@@ -9,4 +9,10 @@ permalink: >
   http://www.openreligion.us/toc/how-to-treat-oneself/death/
 published: true
 ---
-Given its inevitability, how should one approach one's own death?
+<h3>Motivation</h3>
+Given its inevitability, how should one approach one's own death? How should society approach death? Death and a purposeless life.
+<h3>Content</h3>
+<h3>References</h3>
+To be added
+
+[maxbutton id="1" text="Treating Others &gt;" url="http://www.openreligion.us/toc/how-to-treat-others/"]
