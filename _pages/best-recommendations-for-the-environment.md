@@ -9,4 +9,9 @@ permalink: >
   http://www.openreligion.us/toc/how-to-treat-oneself/best-recommendations-for-the-environment/
 published: true
 ---
+<h3>Motivation</h3>
 A collection of intuitive and non-intuitive recommendations for selecting or shaping the environment for keeping the mind and body in top form. No one size fits all, provide options to pick and choose along with pro and cons.
+<h3>Content</h3>
+&nbsp;
+<h3>References</h3>
+&nbsp;
