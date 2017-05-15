@@ -1,11 +1,12 @@
 ---
-ID: 98
+ID: 192
 post_title: Rituals
 author: ordinaryseeker
-post_date: 2017-03-23 04:57:40
+post_date: 2017-05-15 05:21:32
 post_excerpt: ""
 layout: page
-permalink: http://www.openreligion.us/toc/rituals/
+permalink: >
+  http://www.openreligion.us/toc/rituals/rituals/
 published: true
 ---
 <h3>Motivation</h3>
@@ -22,7 +23,4 @@ Quarterly Rituals
 Yearly Rituals
 
 Life Milestone Rituals
-
-&nbsp;
 <h3>References</h3>
-&nbsp;
