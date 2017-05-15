@@ -20,4 +20,4 @@ Analyzing the evidence for a God as traditionally conceptualized in the light of
 
 &nbsp;
 
-[maxbutton id="1" text="Self &gt;" url="http://www.openreligion.us/toc/how-to-treat-oneself/"]
+[maxbutton id="1" text="The Self &gt;" url="http://www.openreligion.us/toc/how-to-treat-oneself/"]
