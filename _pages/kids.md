@@ -9,4 +9,10 @@ permalink: >
   http://www.openreligion.us/toc/how-to-treat-others/kids/
 published: true
 ---
-Best recommendations for approaching whether o have kids and how best to raise them
+<h3>Motivation</h3>
+Best recommendations for approaching whether to have kids and how best to raise them
+
+&nbsp;
+<h3>Content</h3>
+&nbsp;
+<h3>References</h3>
