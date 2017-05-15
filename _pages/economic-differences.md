@@ -9,4 +9,10 @@ permalink: >
   http://www.openreligion.us/toc/how-to-treat-others/economic-differences/
 published: true
 ---
-Given the fact that no conscious being is responsible for being born into riches or poverty, how to ensure a better equality of opportunity
+<h3>Motivation</h3>
+Given the fact that no conscious being is responsible for being born into riches or poverty, how to ensure equality of opportunity to lead a good life?
+
+&nbsp;
+<h3>Content</h3>
+&nbsp;
+<h3>References</h3>
