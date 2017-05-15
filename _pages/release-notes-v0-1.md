@@ -24,3 +24,5 @@ I could not just release an empty shell hoping for people to contribute. So I ha
 Most of the work in this book is not original. It is either paraphrased or inspired from other writers.  Though they do not know about this work, I would like to extended my thanks to John and Hank Green at Crash Course, Sam Harris author of End of Faith and Waking Up, Alain de Button at School of Life, Jonathan Haidt author of Happiness Hypothesis, Daniel Dennet author of Darwin's Dangerous Idea, Ted Talks and a myriad youtube vloggers.
 
 I state all this, not with any pride but as a warning for the imperfection of this material. It is meant to be updated and perfected. That is why it is v0.1
+
+-Ordinary Seeker
