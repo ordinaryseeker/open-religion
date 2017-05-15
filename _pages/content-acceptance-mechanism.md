@@ -9,4 +9,8 @@ permalink: >
   http://www.openreligion.us/toc/organizing-open-religion/content-acceptance-mechanism/
 published: true
 ---
-How should new content be accepted into the main branch while maintaining conciseness, accuracy, usefulness and openess
+<h3>Motivation</h3>
+How should new content be accepted into the main branch while maintaining conciseness, accuracy, usefulness and openness
+<h3>Content</h3>
+&nbsp;
+<h3>References</h3>
