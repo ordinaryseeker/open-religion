@@ -11,4 +11,12 @@ permalink: >
   http://www.openreligion.us/toc/organizing-open-religion/content-and-comment-guidelines/
 published: true
 ---
-Guidelines to ensure high quality submissions in a welcoming environment. For inspiration look at Hacker News guidelines.
+<h3>Motivation</h3>
+Guidelines to ensure high quality submissions in a welcoming environment.
+
+(For inspiration look at <a href="https://news.ycombinator.com/newsguidelines.html">Hacker News guidelines.</a>)
+
+&nbsp;
+<h3>Content</h3>
+&nbsp;
+<h3>Referencs</h3>
