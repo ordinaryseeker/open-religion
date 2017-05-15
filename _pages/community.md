@@ -10,9 +10,9 @@ permalink: >
 published: true
 ---
 <h3>Motivation</h3>
-Best recommendations for approaching one's role in these relationships
+Best recommendations for approaching one's role in the many relationships that make up one's community
 
 &nbsp;
-<h3>Content</h3>
+<h3> Content</h3>
 &nbsp;
 <h3>References</h3>
