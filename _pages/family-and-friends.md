@@ -9,4 +9,10 @@ permalink: >
   http://www.openreligion.us/toc/how-to-treat-others/family-and-friends/
 published: true
 ---
-Best recommendations for approaching one's role in these relationship
+<h3>Motivation</h3>
+Best recommendations for approaching one's role in these relationships
+
+&nbsp;
+<h3>Content</h3>
+&nbsp;
+<h3>References</h3>
