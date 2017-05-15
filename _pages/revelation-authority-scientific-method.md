@@ -13,8 +13,6 @@ published: true
 ---
 <h3><strong>Motivation</strong></h3>
 A discussion about how knowledge has been acquired throughout human history. The pros and cons of the major methods and why human knowledge acquisition has accelerated in the past 300 years and its implications on Open Religion.
-
-<!--more-->
 <h3><strong>Content</strong></h3>
 One of the most important questions that humanity has had to figure out is how to acquire true knowledge about the nature of reality. For most of humanity this question did not have a satisfactory answer.
 
