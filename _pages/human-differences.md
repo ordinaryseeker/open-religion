@@ -9,4 +9,8 @@ permalink: >
   http://www.openreligion.us/toc/how-to-treat-others/human-differences/
 published: true
 ---
-Making the case for allowing conscious entities to choose their destiny irrespective of differences
+<h3>Motivation</h3>
+Making the case for allowing conscious entities to choose their destiny irrespective of gender, race, sexual orientation and other differences
+<h3>Content</h3>
+&nbsp;
+<h3>References</h3>
