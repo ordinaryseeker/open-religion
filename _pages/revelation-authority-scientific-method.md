@@ -13,7 +13,7 @@ published: true
 ---
 <strong>Motivation</strong>
 
-A discussion about how knowledge has been acquired throughout human history. The pros and cons of the major methods and why human knowledge acquisition has accelerated in the past 300 years.
+A discussion about how knowledge has been acquired throughout human history. The pros and cons of the major methods and why human knowledge acquisition has accelerated in the past 300 years and its implications on Open Religion.
 
 <strong>Content</strong>
 
@@ -46,5 +46,9 @@ Lastly, there is the "is-ought problem". Just by knowing how things are today or
 But to conclude, it is important to note that despite its drawbacks the Scientific Method is the only reliable method of knowing the nature of reality known to man. We have known more about the world in the past 300 years than the million years before that combined, thanks to this method.
 
 The reason to even talk about this topic is to highlight two aspects of Open Religion. One, Open Religion should always be based on Scientific Facts and should be updated as new facts come to light. Two, Open Religion itself is not a scientific endeavor because it is in the business of recommending how a person or society should be in the future to maximize well-being and we have not run hundreds of experiments to pick these recommendations.
+
+<strong>References</strong>
+
+To be added
 
 &nbsp;
