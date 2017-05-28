@@ -10,7 +10,7 @@ permalink: >
 published: true
 ---
 <h3>Motivation</h3>
-What is the "organizing principle" of the universe? What is common among particle physics, chemistry, biology, psychology, sociology and economics? Can this help us know the nature of God?
+What is the "organizing principle" of the universe? What is common among particle physics, chemistry, biology, psychology, sociology and economics? Can this answer help us know the nature of God?
 <h3>Content</h3>
 Emergent Phenomena seems like an obscure topic to highlight here but in fact it is so common in our world that it may be called the organizing principle of the universe. In the simplest terms it is any phenomena where a complex system arises from the interactions of simpler components where the complex system has properties that are almost impossible to predict by just observing the properties of the simpler components.
 
