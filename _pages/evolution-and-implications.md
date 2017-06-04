@@ -22,10 +22,10 @@ Much of the society is  still ignorant about this, while a significant portion 
 <ol>
  	<li>God : Most likely, if there is a creator of the universe, it does not intervene in lives of earthly species.</li>
  	<li>Purpose : Most likely, life has no inherent purpose.</li>
- 	<li>Morality : Most likely, notions of right and wrong are not universal and are human creations, created for specific time periods and places.</li>
- 	<li>Social Structure : The current social structure has evolved out of random process analogous to the biological process.</li>
- 	<li>Body : Most likely, our bodies have evolved for daily routines very different than our current routines.</li>
- 	<li>Minds : Most likely, our minds have evolved for daily routines very different than our current routines.</li>
+ 	<li>Body : Most likely, our bodies have evolved for daily routines very different than our current daily routines and hence new guidelines are needed .</li>
+ 	<li>Minds : Most likely, our minds have evolved for daily routines very different than our current routines and hence new guidelines are needed</li>
+ 	<li>Morality : Most likely, notions of right and wrong need to be re-evaluated in light of the fact that all of us a products of this blind process and hence have the equal right to act as we please as long as we do not harm others.</li>
+ 	<li>Social Structure : The current social structure has evolved out of random process analogous to the biological process. A child born into a rich family does not deserve it any more than a child born into a poor family.</li>
  	<li></li>
 </ol>
 <h3></h3>
