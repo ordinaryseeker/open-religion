@@ -1,16 +1,16 @@
 ---
 ID: 110
-post_title: The Ten Re-Commendments
+post_title: The Ten Recommendments
 author: ordinaryseeker
 post_date: 2017-03-23 05:24:32
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.openreligion.us/toc/the-ten-re-commendments/
+  http://www.openreligion.us/toc/the-ten-recommendments/
 published: true
 ---
 <h3>Motivation</h3>
-Based on the principles we have seen throughout this book, it would be dishonest to "command" anyone to do anything but we can certainly try to distill Open Religion into ten recommendations for the ease of remembering and maximizing effectiveness for individual and society.  Also this acts as a TL;DR.
+Based on the principles we have seen throughout this book, it would be dishonest to "command" anyone to do anything but we can certainly try to distill Open Religion into ten recommendations for the ease of remembering and maximizing effectiveness for the individual and society.  Also this acts as a TL;DR.
 <h3>Content</h3>
 <ol>
  	<li>Everyday we recommend you hold these two opposing thoughts in your head.
