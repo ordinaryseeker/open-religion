@@ -30,7 +30,7 @@ Much of the society is  still ignorant about this, while a significant portion 
 </ol>
 <h3></h3>
 <h3>Technical Notes</h3>
-The concept of complex things being designed by a random process is very alien to most of us since most things around us are made by somebody and for an explicit purpose. We cannot imagine a complex system like a computer creating itself randomly, even if we put all its required components in a box and shake it a million times. Therefore, we will try to make this complicated topic as intuitive as possible. Consider the following three simple rules
+The concept of complex things being designed by a random process is very alien to most of us since most things around us are made by somebody and for an explicit purpose. We cannot imagine a complex system like a computer creating itself randomly, even if we put all its required components in a box and shake it a million times. Therefore, we will try to make this complicated topic as intuitive as possible with a bit of oversimplification. Consider the following three simple rules
 <ol>
  	<li>Any species has some variation in features and qualities among its population, for eg not all giraffes have the same neck length and spot patterns.</li>
  	<li>Some of this variation seemingly serves no purpose but some of it confers an advantage or disadvantage to the survival and reproduction of that particular animal of this species under a given environment.</li>
@@ -40,6 +40,6 @@ Now consider a hypothetical example of two varieties of giraffes , those with 15
 
 Species change is just an extension of this phenomenon over millions of years. Fossil records show the intermediate ancestors of fishes who became amphibious and then reptiles and then birds and mammals and these are always found in the right time period layer of the earth. We can also see body parts being common among wildly different species with common ancestors, for eg the five fingered hands of humans, wings of bats and fins of whales.
 
-The strongest proof for evolution in our view is the discovery of the DNA. When Darwin had proposed that variations get inherited by offsprings, he did not know how it happened. It was only a hundred years later that we found an actual mechanism in the DNA. Imagine what a strong proof the theories of heaven or rebirth would have had if people found a mechanism by which souls go to heaven or hell or next lives and this could be replicated all over the world. The discovery of the DNA is that strong of a proof for evolution.
+The strongest proof for evolution in our view is the discovery of the DNA. When Darwin had proposed that variations get inherited by offsprings, he did not know how it happened. It was only a hundred years later that we found an actual mechanism in the DNA. Imagine what a strong proof the theories of heaven or rebirth would have had if people found a mechanism to reliably capture a soul and this could be replicated all over the world. The discovery of the DNA is that strong of a proof for evolution.
 <h3>References</h3>
 To be added
