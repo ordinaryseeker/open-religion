@@ -42,4 +42,4 @@ Species change is just an extension of this phenomenon over millions of years. F
 
 The strongest proof for evolution in our view is the discovery of the DNA. When Darwin had proposed that variations get inherited by offsprings, he did not know how it happened. It was only a hundred years later that we found an actual mechanism in the DNA. Imagine what a strong proof the theories of heaven or rebirth would have had if people found a mechanism to reliably capture a soul and this could be replicated all over the world. The discovery of the DNA is that strong of a proof for evolution.
 <h3>References</h3>
-To be added
+Crash Course on Natural Selection : <a href="https://www.youtube.com/watch?v=aTftyFboC_M">https://www.youtube.com/watch?v=aTftyFboC_M</a>
