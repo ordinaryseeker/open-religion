@@ -18,7 +18,9 @@ Where are we in time?
 
 (placeholder : click to see full resolution)
 
-<a href="http://eps.berkeley.edu/~saekow/chronozoom/ChronoZoom-Big-History-Brochure-1.jpg"><img class="alignnone wp-image-140 size-large" src="http://www.openreligion.us/wp-content/uploads/2017/03/Timeline-1024x796.jpg" alt="" width="1024" height="796" /></a>
+<a href="https://en.wikipedia.org/wiki/Timelines_of_world_history"><img class="alignnone wp-image-228 " src="http://www.openreligion.us/wp-content/uploads/2017/03/Timeline2.jpg" alt="" width="966" height="544" /></a>
+
+&nbsp;
 
 Where are we in Space?
 
