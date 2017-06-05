@@ -14,15 +14,23 @@ A visual representation of where we are in space and time and how and when we ca
 
 (Added placeholders below)
 <h3>Content</h3>
-Where are we in time?
+When we first become aware of the world around us, it is easy to assume that the world has been more or less the same for a long time. As we grow up we learn about some of the changes that have happened in the recent history. But nothing can prepare us of the bizarre and complex history of the world. So we recommend that you stare at the pictures below for a few minutes everyday and ponder over the scale of things to remind yourself of your place in the world and many of your worries will dissolve.
 
-(placeholder : click to see full resolution)
+<strong>Where are we in time?</strong>
+
+As far as we know, the universe was created 13.8 billion years ago, the earth was formed roughly 4.54 billion years ago, earliest life on earth was formed roughly 4.1 billion years ago and modern humans were formed about 200,000 years ago and the first recorded complex societies are from 3500 years ago.
+
+(placeholder : click to see wikipedia page with links)
+
+<a href="https://en.wikipedia.org/wiki/Timelines_of_world_history"><img class="aligncenter wp-image-234 size-full" src="http://www.openreligion.us/wp-content/uploads/2017/03/Timeline3.jpg" alt="" width="633" height="627" /></a><a href="https://en.wikipedia.org/wiki/Timeline_of_ancient_history"><img class="aligncenter wp-image-235 size-full" src="http://www.openreligion.us/wp-content/uploads/2017/03/Timeline4.jpg" alt="" width="635" height="714" /></a>
 
 &nbsp;
 
 &nbsp;
 
-Where are we in Space?
+&nbsp;
+
+<strong>Where are we in Space?</strong>
 
 (placeholder : click to see full resolution)
 
@@ -36,3 +44,4 @@ Timeline of human's discoveries.
 
 <a href="https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries">https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries</a>
 <h3>References</h3>
+Timelines of history : <a href="https://en.wikipedia.org/wiki/Timelines_of_world_history">https://en.wikipedia.org/wiki/Timelines_of_world_history</a>
