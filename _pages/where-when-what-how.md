@@ -18,7 +18,7 @@ Where are we in time?
 
 (placeholder : click to see full resolution)
 
-<a href="https://en.wikipedia.org/wiki/Timelines_of_world_history"><img class="alignnone wp-image-228 " src="http://www.openreligion.us/wp-content/uploads/2017/03/Timeline2.jpg" alt="" width="966" height="544" /></a>
+&nbsp;
 
 &nbsp;
 
