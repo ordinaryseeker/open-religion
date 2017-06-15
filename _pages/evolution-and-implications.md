@@ -6,11 +6,11 @@ post_date: 2017-03-23 03:08:33
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.openreligion.us/toc/the-story-so-far/evolution-and-implications/
+  http://www.theopenreligion.org/toc/the-story-so-far/evolution-and-implications/
 published: true
 ---
 <h3>Motivation</h3>
-A concise explanation of Darwin's Theory of Evolution and why such a seemingly ridiculous theory has gained a consensus  among scientists and most importantly, its implications for designing new guidelines for personal and social life.
+Darwin's Theory of Evolution is a seemingly ridiculous theory that explains the origins of human beings and almost all life forms on earth and yet it has gained a massive consensus among scientists. Most importantly, it uncovers a strange phenomena and has huge implications for designing new guidelines for personal and social life.
 <h3>Content</h3>
 How life and humans came to be is a topic that almost every culture has explored. Creation myths around the world have come up with some imaginative stories to explain something that each of us has wondered about atleast sometimes in our lives. These stories are as contradictory as they are diverse but almost all of them have one thing in common, a creator. A creator is an active agent who brings order to chaos, light to darkness and life to a lifeless world. Even among these dozens of imaginative stories, order without a creator is literally unimaginable to our ancestors. That is until Charles Darwin.
 
@@ -30,6 +30,8 @@ Much of the society is  still ignorant about this, while a significant portion 
 </ol>
 <h3></h3>
 <h3>Technical Notes</h3>
+<!--more-->
+
 The concept of complex things being designed by a random process is very alien to most of us since most things around us are made by somebody and for an explicit purpose. We cannot imagine a complex system like a computer creating itself randomly, even if we put all its required components in a box and shake it a million times. Therefore, we will try to make this complicated topic as intuitive as possible with a bit of oversimplification. Consider the following three simple rules
 <ol>
  	<li>Any species has some variation in features and qualities among its population, for eg not all giraffes have the same neck length and spot patterns.</li>
