@@ -39,5 +39,9 @@ The vastness of time and space is truly humbling but when did we figure out that
 (placeholder : link for now. need a picture for this )
 
 <a href="https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries">https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries</a>
+
+For most of human history, change in most people's life was slow. The life of your grandmother or grandfather might not have been very different than your own life. And in those circumstances it may even have been the wise thing to do to follow their advice blindly. But the past hundred years have changed things dramatically and the change is only accelerating. Its time to keep an open mind.
 <h3>References</h3>
+<!--more-->
+
 Timelines of history : <a href="https://en.wikipedia.org/wiki/Timelines_of_world_history">https://en.wikipedia.org/wiki/Timelines_of_world_history</a>
