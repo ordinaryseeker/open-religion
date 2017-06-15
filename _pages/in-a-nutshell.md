@@ -1,19 +1,21 @@
 ---
 ID: 51
-post_title: Where, When, What and How?
+post_title: In a Nutshell
 author: ordinaryseeker
 post_date: 2017-03-23 02:51:17
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.theopenreligion.org/toc/the-story-so-far/where-when-what-how/
+  http://www.theopenreligion.org/toc/the-story-so-far/in-a-nutshell/
 published: true
 ---
 <h3>Motivation</h3>
-When we first become aware of the world around us, it is easy to assume that the world has been more or less the same for a long time. As we grow up we learn about some of the changes that have happened in the recent history. But nothing can prepare us to internalize the bizarre and complex history of the world. Therefore, below is a visual representation of where we are in space and time and how and when we came to know about it. We recommend that you stare at the pictures below for a few minutes everyday and ponder over the scale of things to remind yourself of your place in the world.
+Imagine freeing your mind from petty worries or even ending all preventable human suffering. This is the reward of correctly understanding and internalizing our place in space and history.
 
 (Added placeholders below)
 <h3>Content</h3>
+When we first become aware of the world around us, it is easy to assume that the world has been more or less the same for a long time. As we grow up we learn about some of the changes that have happened in the recent history. But nothing can prepare us to completely internalize the bizarre and complex history of the world we live in.  Therefore, below is a visual representation of where we are in space and time and how and when we came to know about it. We recommend that you stare at the pictures below for a few minutes everyday and ponder over the scale of things to remind yourself of your place in the world.
+
 <strong>Where are we in time?</strong>
 
 As far as we know, the universe was created 13.8 billion years ago, the earth was formed roughly 4.54 billion years ago, earliest life on earth was formed roughly 4.1 billion years ago and modern humans were formed about 200,000 years ago and the first recorded complex societies are from 3500 years ago. But there are twists and turns on every timeline below and so we highly recommend that you explore more about these on Wikipedia.
@@ -32,7 +34,9 @@ The world is very old and humans are relatively very recent and civilization eve
 
 <strong>Timeline of human's discoveries.</strong>
 
-The vastness of time and space is truly humbling but when did we figure out that we live in such an old and large universe
+The vastness of time and space is truly humbling but when did we figure out that we live in such an old and large universe. As you can see in the timeline of scientific discoveries below, it was only in the past 300 years or so that we finally started to correctly understand even basic things that we take for granted today like the cause of day and night and the seasons, elements which were like hydrogen, carbon, oxygen etc instead of fire, earth, water, wind and sky, that diseases are caused by  bacteria and viruses instead of God's fury or demons.
+
+(placeholder : link for now. need a picture for this )
 
 <a href="https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries">https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries</a>
 <h3>References</h3>
