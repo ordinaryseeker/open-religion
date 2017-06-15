@@ -6,7 +6,7 @@ post_date: 2017-03-23 03:17:01
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.openreligion.us/toc/the-story-so-far/emergent-phenomena/
+  http://www.theopenreligion.org/toc/the-story-so-far/emergent-phenomena/
 published: true
 ---
 <h3>Motivation</h3>
@@ -16,7 +16,9 @@ Emergent Phenomena seems like an obscure topic to highlight here but in fact it 
 
 Confused? Let us illustrate by an example. The figure below shows one approximate chain of increasing complexity which has been built upon multiple levels of Emergence of complex systems which themselves become the building blocks of the next stage.  At each stage there are rules for how the components in that box interact with each other. For example Hydrogen and Oxygen are Atoms and they have their individual properties (like boiling point, viscosity, combustibility etc) and rules of interacting with each other. But when they combine to form H2O (water) it has properties completely different from either of them and it would be difficult to predict all its properties by just studying the properties of Hydrogen and Oxygen. Similar leaps of complexity are seen at other levels like individual human behavior studied by psychology to behavior of social groups studied by sociology .
 
-<a href="http://www.openreligion.us/wp-content/uploads/2017/03/Emergence1.jpg"><img class="aligncenter size-full wp-image-213" src="http://www.openreligion.us/wp-content/uploads/2017/03/Emergence1.jpg" alt="" width="1280" height="720" /></a>
+<a href="http://www.theopenreligion.org/wp-content/uploads/2017/03/Emergence2.jpg"><img class="aligncenter size-full wp-image-219" src="http://www.theopenreligion.org/wp-content/uploads/2017/03/Emergence2.jpg" alt="" width="1280" height="720" /></a>
+
+&nbsp;
 
 &nbsp;
 
@@ -26,10 +28,14 @@ Confused? Let us illustrate by an example. The figure below shows one approximat
 
 How does this happen? Does this happen according to some grand plan?
 
-Well, the success of the Theory of Evolution by Natural Selection in explaining the journey from Single Cellular Life to Humans gives us some clues on how simple rules and a lot of time for them to play out can lead to the arising of complexity in the absence of any grand designs. But when emergence happens it is very difficult to take the final result and try to trace it back to the initial conditions or take any initial conditions and predict the final result because many intermediate steps happen by chance or non-linear interactions. But it can be said that whatever survives one stage of rule based interaction is in someways "stable enough" to not disappear  and it is "unstable enough" to not become totally static and continues interacting with its environment to build the next level of rules. (See Technical Notes for a walk through the "simplest complex" system called Cellular Automaton )
+Well, the success of the Theory of Evolution by Natural Selection in explaining the journey from Single Cellular Life to Humans gives us some clues on how simple rules and a lot of time for them to play out can lead to the arising of complexity in the absence of any grand designs. But when emergence happens it is very difficult to take the final result and try to trace it back to the initial conditions or take any initial conditions and predict the final result because many intermediate steps happen by chance or non-linear interactions. But it can be said that whatever survives one stage of rule based interaction is in someways "stable enough" to not disappear  and it is "unstable enough" to not become totally static and continues interacting with its environment to build the next level of rules. (See Technical Notes for a walk through the "simplest complex" system called Cellular Automaton shown below )
+
+<a href="http://www.theopenreligion.org/wp-content/uploads/2017/03/Game-of-life_Pentomino.gif"><img class="aligncenter size-full wp-image-214" src="http://www.theopenreligion.org/wp-content/uploads/2017/03/Game-of-life_Pentomino.gif" alt="" width="483" height="323" /></a>
 
 &nbsp;
 <h3>Technical Notes</h3>
+<!--more-->
+
 It might still be hard to imagine what terms like emergence, complexity, rules, stability, etc mean in this context and so we will walk through a system called Cellular Automaton which is the "simplest complex" system we can use to explain these concepts.
 
 <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">The Game of Life</a> is a Cellular Automaton created by mathematician John Convay. The universe of the Game of Life is an infinite two-dimensional grid of square <i>cells</i>, each of which is in one of two possible states, <i>alive (green)</i> or <i>dead (black)</i>. Every cell interacts with its eight <i><a title="Moore neighborhood" href="https://en.wikipedia.org/wiki/Moore_neighborhood">neighbours</a></i>, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
