@@ -38,7 +38,7 @@ The creator God that is at the center of most religions seems like a figment of 
 </ul>
 </li>
 </ul>
-As the great Bob Dylan would say, "The answer my friend is blowing in the wind, the answer is blowing in the wind."
+As the great Bob Dylan would say, "The answer my friend is blowin' in the wind, the answer is blowin' in the wind."
 <h3>References</h3>
 Sanitation Revolution : <a href="https://www.youtube.com/watch?v=cba7di0eL8I">https://www.youtube.com/watch?v=cba7di0eL8I</a>
 
