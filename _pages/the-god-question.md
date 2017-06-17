@@ -16,9 +16,9 @@ Many of us want God to exist. Life would be so much better under the watchful ey
 
 Unfortunately, as we have come to understand more and more about how the world operates, the evidence pointing to the existence of such a God has been found severely lacking while the evidence pointing to alternative mechanisms that could explain many of the things we once attributed to God has been mounting at a breathtaking rate.
 
-We are far from knowing all there is to know about how the world was created and how it operates. Modern science still has many puzzles to answer about the Big Bang that we think created the universe 13.8 billion years ago. We cannot confirm or deny the role of a creator in creating this universe and the rules that govern it. But the the creator God that is at the center of most religions seems like a figment of imagination of our less knowledgeable ancestors.
+We are far from knowing all there is to know about how the world was created and how it operates. Modern science still has many puzzles to answer about the Big Bang that we think created the universe 13.8 billion years ago. We cannot confirm or deny the role of a creator in creating this universe and the rules that govern it. We can speculate if we are living in a simulation like the movie Matrix depicted, or whether aliens helped create us. The question of the Ultimate Creator remains unanswered and we should become comfortable with this uncertainty.
 
-If you are still not convinced about this ask yourself the following questions and be honest with yourself.
+The creator God that is at the center of most religions seems like a figment of imagination of our less knowledgeable ancestors. If you are still not convinced about this ask yourself the following questions and be honest with yourself.
 <ul>
  	<li>Saving Innocent Lives :
 <ul>
@@ -39,8 +39,6 @@ If you are still not convinced about this ask yourself the following questions a
 </li>
 </ul>
 As the great Bob Dylan would say, "The answer my friend is blowing in the wind, the answer is blowing in the wind."
-
-&nbsp;
 <h3>References</h3>
 Sanitation Revolution : <a href="https://www.youtube.com/watch?v=cba7di0eL8I">https://www.youtube.com/watch?v=cba7di0eL8I</a>
 
