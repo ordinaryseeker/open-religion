@@ -22,7 +22,7 @@ The creator God that is at the center of most religions seems like a figment of 
 <ul>
  	<li>Saving Innocent Lives :
 <ul>
- 	<li>The inventions that have saved the most human lives are Public Sanitation, Antibiotics and Vaccines. Did the religious books of your religion give humanity the blue-prints or recipes for these inventions? Did your "God" or any of his prophets  create the above by miracles?</li>
+ 	<li>The inventions that have saved the most human lives are Public Sanitation, Antibiotics and Vaccines. Did the religious books of your religion give humanity the blue-prints or recipes for these inventions? Did your "God" or any of his sons or prophets  create the above by miracles?</li>
  	<li>With so many children and mothers dying during childbirth,  did your "God" reveal the technology we have to today to prevent all this avoidable suffering?</li>
  	<li>With so many people dying in famines and droughts, did your "God" reveal Water Desalination technology?</li>
 </ul>
