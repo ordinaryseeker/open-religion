@@ -18,7 +18,7 @@ When we first become aware of the world around us, it is easy to assume that the
 
 <strong>Where are we in time?</strong>
 
-As far as we know, the universe was created 13.8 billion years ago, the earth was formed roughly 4.54 billion years ago, earliest life on earth was formed roughly 4.1 billion years ago and modern humans were formed about 200,000 years ago and the first recorded complex societies are from 3500 years ago. But there are twists and turns on every timeline below and so we highly recommend that you explore more about these on Wikipedia.
+As far as we know, the universe was created 13.8 billion years ago, the earth was formed roughly 4.54 billion years ago, earliest life on earth was formed roughly 4.1 billion years ago, modern humans were formed about 200,000 years ago and the first recorded complex societies are from 3500 years ago. But there are twists and turns on every timeline below and so we highly recommend that you explore more about these on Wikipedia.
 
 (placeholder : click to see wikipedia page with links)
 
