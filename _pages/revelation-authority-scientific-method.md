@@ -26,10 +26,12 @@ Another popular method was deducing the nature of reality by logical thinking. O
 
 A related method to the two above is getting knowledge from an authority. We believed something to be true just because an important person or book or tablet said it. This method, while convenient, does leave the question open how did that person or author of the book or tablet know the truth. And we get back to square one.
 
+<strong>The Scientific Method</strong>
+
 One of the remarkable discoveries of the past few centuries  is the "Scientific Method". Stated simply, the method is the following steps
 <ol>
  	<li>Coming up with a specific question about the world</li>
- 	<li>Observing the world and proposing an answer the question (a hypothesis)</li>
+ 	<li>Observing the world and proposing an answer to the question (a hypothesis)</li>
  	<li>Making a testable and falsifiable prediction based on this answer</li>
  	<li>Running controlled experiments to gather evidence to dis-confirm our prediction</li>
  	<li>Being open to conditionally accept or permanently reject a hypothesis based on the evidence.</li>
@@ -37,27 +39,30 @@ One of the remarkable discoveries of the past few centuries  is the "Scientific
 </ol>
 This seemingly mundane process has lead to a rapid acceleration in our knowledge in the past 300 odd years. Note a few subtle peculiarities
 <ol>
- 	<li>Science is not a bunch of facts, it is step by step method.</li>
+ 	<li>Science is not a bunch of facts, it is a process, a step by step method.</li>
  	<li>In our experiments,  we always seek evidence to dis-confirm our hypothesis. This is because it is easy to only seek evidence to confirm our pet theory and then give up the search.</li>
+ 	<li>A controlled experiment means taking two or more groups and holding everything else constant but only changing the variable under study. This is difficult to do with humans because of differences in genetics, environments, habits etc. Therefore human experiments need large sample sizes.</li>
  	<li>The truth value of any claim depends on many scientists verifying the results of the experiment and reaching a consensus. It does not depend on the qualifications of the scientist or her past successes.</li>
  	<li>Lastly, you never accept a hypothesis permanently, you only accept it  conditionally. Which means if the evidence changes (example your peers are unable to reproduce your results or find flaws in your methodology) then you are open to refuting it. On the other hand refutation is often permanent.</li>
 </ol>
-Does the scientific method have any drawbacks? Of course! It has a few.
+<strong>The Scientific Method : Drawbacks</strong>
 
-First, we have to give up the notion of "certainty" and accept "most probable given the evidence".
-
-Second we have to realize that not everything worth observing is observable directly and so we have to settle for imperfect indirect measures. For example we might want to observe the exact chemical composition of the earth when it was formed but that data is not preserved directly anywhere and so we just have look for known signatures of candidate chemicals for evidence. A big problem related to this is "Correlation is not Causation". Basically it means that sometimes in our indirect measures we see two phenomenon or events always happening together but they may not be the cause and effect and instead just be two dependents on a third causative factor.
-
-Also, any search with this method needs funding and resources (unlike revelations and thinking which can be done for free). This might insert limitations and even biases into the process.
-
-Lastly, there is the "is-ought problem". Just by knowing how things are today or were in the past is not always enough to determine how things should be in the future. The Scientific Method has something to offer here if different policies can be tried out experimentally or occurred in the past due to accidents of history but if those options are not available we are largely left to our older methods of thinking and intuition.
-
+The scientific method is not perfect. But it is the best that we have so far. Following are some of the drawbacks of the scientific method
+<ol>
+ 	<li>We have to give up the notion of "certainty" and accept "most probable given the evidence".</li>
+ 	<li>We have to realize that not everything worth observing is observable directly and so we have to settle for imperfect indirect measures.</li>
+ 	<li>Any search with this method requires funding and resources (unlike revelations and thinking which can be done for free). This might insert limitations and even biases into the process.</li>
+ 	<li>Lastly, there is the "is-ought problem". Just by knowing how things are today or were in the past is not always enough to determine how things should be in the future. The Scientific Method has something to offer here if different policies can be tried out experimentally or occurred in the past due to accidents of history but if those options are not available we are largely left to our older methods of thinking and intuition.</li>
+</ol>
 But to conclude, it is important to note that despite its drawbacks the Scientific Method is the only reliable method of knowing the nature of reality known to man. We have known more about the world in the past 300 years than the hundred thousand years before that combined, thanks to this method. As a layperson whenever you come across a new scientific fact, filter it through the following test
 <ol>
- 	<li>How big was the sample size? Bigger the better.</li>
- 	<li>How well replicated are the results?</li>
+ 	<li>Was a controlled experiment conducted to support this claim?</li>
+ 	<li>How big was the sample size?</li>
+ 	<li>How well replicated are the results? Do different experiements arrive at the same result?</li>
  	<li>Are there any conflict of interests in the people funding/conducting the experiment?</li>
 </ol>
+&nbsp;
+
 Another reason to  talk about this topic is to highlight two aspects of Open Religion.
 <ol>
  	<li>Open Religion should always be based on Scientific Facts, provide references for relevant studies and should be updated as new facts come to light.</li>
