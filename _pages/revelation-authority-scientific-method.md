@@ -61,9 +61,9 @@ But to conclude, it is important to note that despite its drawbacks the Scientif
  	<li>How well replicated are the results? Do different experiements arrive at the same result?</li>
  	<li>Are there any conflict of interests in the people funding/conducting the experiment?</li>
 </ol>
-&nbsp;
+<strong>Is Open Religion Scientific?</strong>
 
-Another reason to  talk about this topic is to highlight two aspects of Open Religion.
+Yes and No. There are two aspects of Open Religion.
 <ol>
  	<li>Open Religion should always be based on Scientific Facts, provide references for relevant studies and should be updated as new facts come to light.</li>
  	<li>Open Religion itself is not a scientific endeavor because it is in the business of recommending how a person or society should be in the future to maximize well-being and we have not run hundreds of experiments to pick these recommendations. Also there is no one recommendation that works perfectly for everyone. So the method employed is to list options in each category for individuals to pick, modify or reject.</li>
