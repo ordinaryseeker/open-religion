@@ -12,26 +12,36 @@ permalink: >
 published: true
 ---
 <h3><strong>Motivation</strong></h3>
-The world we live in today has a vast amount of information, more than any single human can learn in a lifetime and new discoveries are happening everyday. Much of the information that ends up in our emails, chats, newspapers may be incomplete, misleading or even incorrect. How do we know what information to believe?
+How do we know what information to believe?
 
-A discussion below about how knowledge has been acquired throughout human history. The pros and cons of the major methods and its implications on Open Religion.
+The world we live in today has a vast amount of information, more than any single human can learn in a lifetime and it is divided into multiple disciplines. In addition, new discoveries or claims of discoveries are made everyday. Some of this information ends up in our newspapers, search results, social media, etc and it may be incomplete, misleading or even incorrect.
+
+Not only does each of us have to personally make decisions based this information (for example diet, career or health care choice) but also, in democracies, we have to support public policy decisions based on it. Hence this question is very important.
 <h3><strong>Content</strong></h3>
 One of the most important questions that humanity has had to figure out is how to acquire true knowledge about the nature of reality. For most of humanity this question did not have a satisfactory answer.
 
-One of the most impactful methods of acquiring important knowledge was "Revelation", where some supernatural being/power would revel a truth about reality to a person. The benefits of this method were obvious, we just had to wait for enough revelations to get a complete picture of reality.  Unfortunately the drawback was that anybody could claim to have had a revelation and we would just have to take their word for it. Also different revelations could contradict each other or even reality.
+One of the historically most popular methods of acquiring knowledge is "Revelation", where some all-knowing, all-powerful being would revel a truth about reality to a person. This method still has a strong grasp on a large percentage of human population. The benefits of this method are obvious, we get certainty that this information is true because it comes directly from the creator of the universe.  Unfortunately the drawback of this method is that anybody can claim to have had a revelation and we would just have to take their word for it. What happens when different revelations contradict each other or even our observed reality? Humans have killed each other or turned a blind eye to observed reality to keep the certainty of their revealed truths.
 
 Another popular method was deducing the nature of reality by logical thinking. One could sit in an arm chair or in a cave and work out how the world worked just by carefully thinking about it. Unfortunately the world we lived in proved to be a little too complex for this method. For example just by your daily experience it is easy to think that the earth is flat and that the sun goes around the earth. While seemingly so obvious, we now know that these claims are not true.
 
 A related method to the two above is getting knowledge from an authority. We believed something to be true just because an important person or book or tablet said it. This method, while convenient, does leave the question open how did that person or author of the book or tablet know the truth. And we get back to square one.
 
-One of the remarkable discoveries of the past few centuries  is the "Scientific Method".  Stated simply it is the method of observing the world around us, coming up with an explanation for the thing we observe (a hypotheses), running experiments to gather evidence to dis-confirm our hypotheses, being open to conditionally accept or permanently reject a hypotheses based on the evidence and verification of procedure/results by peers. This seemingly mundane process has lead to rapid acceleration in our knowledge acquisition about the world over the last three hundred odd years.
-
-Note three subtle peculiarities of this method. In our experiments,  we always seek evidence to dis-confirm our hypotheses. This is because it is easy to only seek evidence to confirm our pet theory and then give up the search.  For example if I observe a few cows and they are black and so I make an hypotheses that "All cows are black". To support my hypotheses it is not enough just to gather evidence of how many black cows I have seen since this claim because observing even one non-black cow will refute the claim.  So it is important to seek evidence to refute your own claim .
-
-Also it is important to frame a hypotheses in a way that it is testable and falsifiable . If I claim that "Some cows appear purple to me". This claim is not testable by others since they cannot see what colors I see. Similarly if I claim "If you see a red cow  something good will happen that day", this claim is not falsifiable since I can spin any event in the day or the absence of a bad event to claim it to be "good".
-
-Lastly you never accept a hypotheses permanently, you only accept it  conditionally. Which means if the evidence changes (example your peers are unable to reproduce your results or find flaws in your methodology) then you are open to refuting it. On the other hand refutation is often permanent.
-
+One of the remarkable discoveries of the past few centuries  is the "Scientific Method". Stated simply, the method is the following steps
+<ol>
+ 	<li>Coming up with a specific question about the world</li>
+ 	<li>Observing the world and proposing an answer the question (a hypothesis)</li>
+ 	<li>Making a testable and falsifiable prediction based on this answer</li>
+ 	<li>Running controlled experiments to gather evidence to dis-confirm our prediction</li>
+ 	<li>Being open to conditionally accept or permanently reject a hypothesis based on the evidence.</li>
+ 	<li>Publication of procedure and results and it's verification by peers.</li>
+</ol>
+This seemingly mundane process has lead to a rapid acceleration in our knowledge in the past 300 odd years. Note a few subtle peculiarities
+<ol>
+ 	<li>Science is not a bunch of facts, it is step by step method.</li>
+ 	<li>In our experiments,  we always seek evidence to dis-confirm our hypothesis. This is because it is easy to only seek evidence to confirm our pet theory and then give up the search.</li>
+ 	<li>The truth value of any claim depends on many scientists verifying the results of the experiment and reaching a consensus. It does not depend on the qualifications of the scientist or her past successes.</li>
+ 	<li>Lastly, you never accept a hypothesis permanently, you only accept it  conditionally. Which means if the evidence changes (example your peers are unable to reproduce your results or find flaws in your methodology) then you are open to refuting it. On the other hand refutation is often permanent.</li>
+</ol>
 Does the scientific method have any drawbacks? Of course! It has a few.
 
 First, we have to give up the notion of "certainty" and accept "most probable given the evidence".
