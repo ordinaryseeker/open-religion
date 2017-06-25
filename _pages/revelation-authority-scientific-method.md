@@ -58,7 +58,7 @@ But to conclude, it is important to note that despite its drawbacks the Scientif
 <ol>
  	<li>Was a controlled experiment conducted to support this claim?</li>
  	<li>How big was the sample size?</li>
- 	<li>How well replicated are the results? Do different experiements arrive at the same result?</li>
+ 	<li>How well replicated are the results? Do different experiments arrive at the same result?</li>
  	<li>Are there any conflict of interests in the people funding/conducting the experiment?</li>
 </ol>
 <strong>Is Open Religion Scientific?</strong>
@@ -69,6 +69,6 @@ Yes and No. There are two aspects of Open Religion.
  	<li>Open Religion itself is not a scientific endeavor because it is in the business of recommending how a person or society should be in the future to maximize well-being and we have not run hundreds of experiments to pick these recommendations. Also there is no one recommendation that works perfectly for everyone. So the method employed is to list options in each category for individuals to pick, modify or reject.</li>
 </ol>
 <h3><strong>References</strong></h3>
-To be added
+Scientific Method : <a href="https://www.youtube.com/watch?v=i8wi0QnYN6s">https://www.youtube.com/watch?v=i8wi0QnYN6s</a>
 
 &nbsp;
