@@ -1,12 +1,12 @@
 ---
 ID: 80
-post_title: Human Differences
+post_title: Other Human Differences
 author: ordinaryseeker
 post_date: 2017-03-23 04:23:11
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.openreligion.us/toc/how-to-treat-others/human-differences/
+  http://www.theopenreligion.org/toc/how-to-treat-others/other-human-differences/
 published: true
 ---
 <h3>Motivation</h3>
