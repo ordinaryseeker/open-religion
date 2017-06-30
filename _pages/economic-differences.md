@@ -6,7 +6,7 @@ post_date: 2017-03-23 04:36:26
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.openreligion.us/toc/how-to-treat-others/economic-differences/
+  http://www.theopenreligion.org/toc/how-to-treat-others/economic-differences/
 published: true
 ---
 <h3>Motivation</h3>
