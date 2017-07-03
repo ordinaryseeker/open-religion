@@ -4,19 +4,19 @@ post_title: >
   Revelation, Authority and the Scientific
   Method
 author: ordinaryseeker
-post_date: 2017-03-23 03:02:36
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.theopenreligion.org/toc/the-story-so-far/revelation-authority-scientific-method/
 published: true
+post_date: 2017-03-23 03:02:36
 ---
 <h3><strong>Motivation</strong></h3>
 How do we know what information to believe?
 
 The world we live in today has a vast amount of information, more than any single human can learn in a lifetime and it is divided into multiple disciplines. In addition, new discoveries or claims of discoveries are made everyday. Some of this information ends up in our newspapers, search results, social media, etc and it may be incomplete, misleading or even incorrect.
 
-Not only does each of us have to personally make decisions based this information (for example diet, career or health care choice) but also, in democracies, we have to support public policy decisions based on it. Hence this question is very important.
+Not only does each of us have to personally make decisions based this information (for example diet, career or health care choices) but also, in democracies, we have to support public policy decisions based on it. If we get this one skill wrong, it could mean inflicting unnecessary suffering on ourselves and our societies.
 <h3><strong>Content</strong></h3>
 One of the most important questions that humanity has had to figure out is how to acquire true knowledge about the nature of reality. For most of humanity this question did not have a satisfactory answer.
 
