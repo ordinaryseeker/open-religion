@@ -2,23 +2,23 @@
 ID: 51
 post_title: In a Nutshell
 author: ordinaryseeker
-post_date: 2017-03-23 02:51:17
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.theopenreligion.org/toc/the-story-so-far/in-a-nutshell/
 published: true
+post_date: 2017-03-23 02:51:17
 ---
 <h3>Motivation</h3>
 Imagine freeing your mind from petty worries or even ending all preventable human suffering. This is the reward of correctly understanding and internalizing our place in space and history.
 
 (Added placeholders below)
 <h3>Content</h3>
-When we first become aware of the world around us, it is easy to assume that the world has been more or less the same for a long time. As we grow up we learn about some of the changes that have happened in the recent history. But nothing can prepare us to completely internalize the bizarre and complex history of the world we live in.  Therefore, below is a visual representation of where we are in space and time and how and when we came to know about it. We recommend that you stare at the pictures below for a few minutes everyday and ponder over the scale of things to remind yourself of your place in the world.
+When we first become aware of the world around us, it is easy to assume that the world has been more or less the same for a long time. As we grow up we learn about some of the changes that have happened in the recent history. But nothing can prepare us to completely internalize the bizarre and complex history of the world we live in.  Therefore, below is a visual representation of where we are in space and time. Many of these discoveries are from the past 300 odd years. But they have been verified by multiple methods in a reliably repeatable fashion.  We recommend that you stare at the pictures below for a few minutes everyday and ponder over the scale of things to remind yourself of your place in the world.
 
 <strong>Where are we in time?</strong>
 
-As far as we know, the universe was created 13.8 billion years ago, the earth was formed roughly 4.54 billion years ago, earliest life on earth was formed roughly 4.1 billion years ago, modern humans were formed about 200,000 years ago and the first recorded complex societies are from 3500 years ago. But there are twists and turns on every timeline below and so we highly recommend that you explore more about these on Wikipedia.
+As far as we know, the universe was created 13.8 billion years ago, the earth was formed roughly 4.54 billion years ago, earliest life on earth was formed roughly 4.1 billion years ago, modern humans were formed about 200,000 years ago and the first recorded complex societies are from roughly 5500 years ago. But there are twists and turns on every timeline below and so we highly recommend that you explore more about these on Wikipedia.
 
 (placeholder : click to see wikipedia page with links)
 
@@ -40,7 +40,7 @@ The vastness of time and space is truly humbling but when did we figure out that
 
 <a href="https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries">https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries</a>
 
-For most of human history, change in most people's life was slow. The life of your grandmother or grandfather might not have been very different than your own life. And in those circumstances it may even have been the wise thing to do to follow their advice blindly. But the past hundred years have changed things dramatically and the change is only accelerating. Its time to keep an open mind.
+For most of human history, change in most people's life was slow. To a person living a 1000 years ago, the life of their parents might not have been very different from their own life. And in those circumstances it may even have been the wise thing to do to follow their advice blindly. But the past hundred years have changed things dramatically and the change is only accelerating. Its time to keep an open mind.
 <h3>References</h3>
 <!--more-->
 
