@@ -2,12 +2,12 @@
 ID: 110
 post_title: The Ten Recommendments
 author: ordinaryseeker
-post_date: 2017-03-23 05:24:32
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.theopenreligion.org/toc/the-ten-recommendments/
 published: true
+post_date: 2017-03-23 05:24:32
 ---
 <h3>Motivation</h3>
 Based on the principles we have seen throughout this book, it would be dishonest to "command" anyone to do anything but we can certainly try to distill Open Religion into ten recommendations for the ease of remembering and maximizing effectiveness for the individual and society.  If nothing else, it acts as a TL;DR.
@@ -64,3 +64,4 @@ Based on the principles we have seen throughout this book, it would be dishonest
 </ol>
 </li>
 </ol>
+[maxbutton id="1" ]
