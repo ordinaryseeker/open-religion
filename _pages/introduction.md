@@ -2,11 +2,11 @@
 ID: 2
 post_title: Introduction
 author: ordinaryseeker
-post_date: 2017-01-26 08:13:33
 post_excerpt: ""
 layout: page
 permalink: http://www.theopenreligion.org/
 published: true
+post_date: 2017-01-26 08:13:33
 ---
 We live in a magical world. Not the kind of magic we see in movies or in magic shows but a kind of magic that is almost invisible to us unless we take the effort to stop, observe and ponder. Why is there something in the universe rather than nothing? How does life form out of lifeless material? How does life acquire consciousness? What happens after death? These "Big Questions" have troubled philosophers for millennia. The answers to these “Big Questions” also have implication on our daily lives. The stories used to explain the creation of the universe and life have trickle down corollaries that affect people’s lives via deeply personal questions like, What is the purpose of my life? How should I treat myself? How should I treat others?
 
@@ -25,3 +25,7 @@ The first section provides a concise introduction to the nature of reality that 
 Finally, remember that all of these are just recommendations and you are free to live however you want. Each of us was dead for billions of years and will be dead for billions of years in the future with only a few decades to be alive. Enjoy this magical ride.
 
 [maxbutton id="1" ]
+
+[maxbutton id="2" text="TL;DR &gt;" url="http://www.theopenreligion.org/toc/the-ten-recommendments/"]
+
+[maxbutton id="2" text="Release Notes v0.1 &gt;" url="http://www.theopenreligion.org/release-notes-v0-1/"]
