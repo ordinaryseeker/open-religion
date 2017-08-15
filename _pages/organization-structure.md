@@ -1,13 +1,11 @@
 ---
 ID: 108
-post_title: >
-  Choosing the Governing Body and
-  Organization Structure
+post_title: Organization Structure
 author: ordinaryseeker
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.theopenreligion.org/toc/organizing-open-religion/choosing-the-governing-body/
+  http://www.theopenreligion.org/toc/organizing-open-religion/organization-structure/
 published: true
 post_date: 2017-03-23 05:18:55
 ---
