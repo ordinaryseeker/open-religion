@@ -4,12 +4,12 @@ post_title: >
   Content and Comment Submission
   Guidelines
 author: ordinaryseeker
-post_date: 2017-03-23 05:13:39
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.openreligion.us/toc/organizing-open-religion/content-and-comment-guidelines/
+  http://www.theopenreligion.org/toc/organizing-open-religion/content-and-comment-guidelines/
 published: true
+post_date: 2017-03-23 05:13:39
 ---
 <h3>Motivation</h3>
 Guidelines to ensure high quality submissions in a welcoming environment.
