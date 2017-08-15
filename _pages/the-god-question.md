@@ -2,12 +2,12 @@
 ID: 59
 post_title: The God Question
 author: ordinaryseeker
-post_date: 2017-03-23 03:20:20
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.theopenreligion.org/toc/the-story-so-far/the-god-question/
 published: true
+post_date: 2017-03-23 03:20:20
 ---
 <h3>Motivation</h3>
 Many of us want God to exist. Life would be so much better under the watchful eye of a caring yet forgiving, generous yet powerful creator who ensures fairness in the world, who rewards good deeds and punishes the evil. But does God exist? What is His nature?
@@ -48,4 +48,4 @@ Sanitation Revolution : <a href="https://www.youtube.com/watch?v=cba7di0eL8I">h
 
 &nbsp;
 
-[maxbutton id="1" text="The Self &gt;" url="http://www.openreligion.us/toc/how-to-treat-oneself/"]
+[maxbutton id="1" text="The Self &gt;" url="http://www.theopenreligion.org/toc/how-to-treat-oneself/"]
