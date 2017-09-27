@@ -22,7 +22,7 @@ One concept that can help merge these two models is called Proof of Work used in
  	<li>What activities count as "work" towards these goals? How many "karma points" for each such activity?</li>
  	<li>What are  the roles and responsibilities of members with higher "karma points"?</li>
 </ol>
-&nbsp;
+[table id=1 /]
 
 &nbsp;
 <h3>References</h3>
