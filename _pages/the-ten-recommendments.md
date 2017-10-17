@@ -21,8 +21,20 @@ Based on the principles we have seen throughout this book, it would be dishonest
 </li>
  	<li>Everyday remember that you are the product of a blind process aka Evolution and so your body and mind are imperfect in many ways. Do these three things for yourself
 <ol>
- 	<li>Body : Eat Healthy, Restrict Calories intermittently, Exercise.</li>
- 	<li>Mind : Meditate, Exercise, Choose addictive substances wisely.</li>
+ 	<li>Body :
+<ul>
+ 	<li>Eat Healthy: Let 50% of your plate be diverse vegetables (excluding potato), then healthy fats, protein, whole grains, fruit in decreasing quantity order, avoid sugar, fast atleast once a week. feast once a week but not alone.</li>
+ 	<li>Exercise :  atleast 30 mins of high heart rate every day, warm-up-&gt;stretch-&gt;exercise-&gt; stretch,  Eat healthy, sleep well, give a muscle 48hrs of rest.</li>
+ 	<li>Sleep : 8 hrs a day, take a nap midday, minimize caffeine, avoid blue light before sleeping</li>
+</ul>
+</li>
+ 	<li>Mind :
+<ul>
+ 	<li>Meditate (Training Consciousness) : Observe sensation of natural breath, if thoughts arise  gently acknowledge you are wandering away in thoughts and go back to focusing on sensation of breath, repeat atleast 30 mins twice a day</li>
+ 	<li>Exercise: same as above</li>
+ 	<li>Choose addictive substances wisely.</li>
+</ul>
+</li>
  	<li>Environment : Create routines, Remove Distractions, Be part of community.</li>
 </ol>
 </li>
