@@ -1,13 +1,11 @@
 ---
 ID: 53
-post_title: >
-  Revelation, Authority and the Scientific
-  Method
+post_title: Information and Truth
 author: ordinaryseeker
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.theopenreligion.org/toc/the-story-so-far/revelation-authority-scientific-method/
+  http://www.theopenreligion.org/toc/the-story-so-far/information-truth/
 published: true
 post_date: 2017-03-23 03:02:36
 ---
