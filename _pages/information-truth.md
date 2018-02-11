@@ -54,25 +54,19 @@ The scientific method is not perfect. But it is the best that we have so far. Fo
  	<li>Any search with this method requires funding and resources (unlike revelations and thinking which can be done for free). This might insert limitations and even biases into the process.</li>
  	<li>Lastly, there is the "is-ought problem". Just by knowing how things are today or were in the past is not always enough to determine how things should be in the future. The Scientific Method has something to offer here if different policies can be tried out experimentally or occurred in the past due to accidents of history but if those options are not available we are largely left to our older methods of thinking and intuition.</li>
 </ol>
-It is important to note that despite its drawbacks the Scientific Method is the only reliable method of knowing the nature of reality known to man. We have known more about the world in the past 300 years than the hundred thousand years before that combined, thanks to this method.
-
 As a layperson whenever you come across new information, filter it through the following test to know how much trust to put on it
 <ol>
- 	<li>Is this an anecdote from one or multiple people with known or possible bad motives? -&gt; No Trust</li>
- 	<li>Is this an anecdote from a single person with unknown motives? -&gt; No Trust</li>
- 	<li>Is this an anecdote from a known person of good motives or multiple people of unknown motives? -&gt; Low Trust + curiosity</li>
- 	<li>Is this my personal experience? -&gt; Medium Trust + Caution  + Curiosity</li>
- 	<li>Is this the result of a small controlled study? -&gt; Medium Trust + Caution + Curiosity</li>
- 	<li>Is this the result of large controlled study? -&gt; Strong Trust + Caution</li>
- 	<li>Is this the result of multiple large and replicated studies? -&gt; Strong Trust</li>
+ 	<li>Is this an anecdote from one or multiple people with known or possible bad motives? -&gt;<span style="background-color: #ff0000;"> No Trust</span></li>
+ 	<li>Is this an anecdote from a single person with unknown motives? -&gt; <span style="background-color: #ff0000;">No Trust</span></li>
+ 	<li>Is this an anecdote from a known person of good motives or multiple people of unknown motives? -&gt;<span style="background-color: #ff9900;"> Low Trust + Caution + Curiosity</span></li>
+ 	<li>Is this my personal experience? -&gt; <span style="background-color: #ffff00;">Medium Trust + Caution  + Curiosity</span></li>
+ 	<li>Is this the result of a small controlled study? -&gt;<span style="background-color: #ffff00;"> Medium Trust + Caution + Curiosity</span></li>
+ 	<li>Is this the result of large controlled study? -&gt; <span style="background-color: #99cc00;">Trust + Caution + Curiosity</span></li>
+ 	<li>Is this the result of multiple large controlled and replicated studies? -&gt; <strong><span style="background-color: #008000;">Strong Trust</span></strong></li>
 </ol>
-<strong>Is Open Religion Scientific?</strong>
+The color scheme used above will also be used in the rest of this book  when making or evaluating recommendations because unfortunately not everything worth studying has been studied with large controlled and replicated studies.
 
-Yes and No. There are two aspects of Open Religion.
-<ol>
- 	<li>Open Religion should always be based on Scientific Facts, provide references for relevant studies and should be updated as new facts come to light.</li>
- 	<li>Open Religion itself is not a scientific endeavor because it is in the business of recommending how a person or society should be in the future to maximize well-being and we have not run hundreds of experiments to pick these recommendations. Also there is no one recommendation that works perfectly for everyone. So the method employed is to list options in each category for individuals to pick, modify or reject.</li>
-</ol>
+To conclude, it is important to note that despite its drawbacks the Scientific Method is the only reliable method of knowing the nature of reality known to man. We have known more about the world in the past 300 years than the 100000 years before that combined, thanks to this method.
 <h3><strong>References</strong></h3>
 Scientific Method : <a href="https://www.youtube.com/watch?v=i8wi0QnYN6s">https://www.youtube.com/watch?v=i8wi0QnYN6s</a>
 
