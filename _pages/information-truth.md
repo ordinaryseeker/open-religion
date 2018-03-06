@@ -51,7 +51,7 @@ The scientific method is not perfect. But it is the best that we have so far. Fo
 <ol>
  	<li>We have to give up the notion of "certainty" and accept "most probable given the evidence".</li>
  	<li>We have to realize that not everything worth observing is observable directly and so we have to settle for imperfect indirect measures.</li>
- 	<li>Any search with this method requires funding and resources (unlike revelations and thinking which can be done for free). This might insert limitations and even biases into the process.</li>
+ 	<li>Any search with this method requires funding and resources (unlike revelations and thinking which can be done for free). This inserts limitations and even biases into the process.</li>
  	<li>Lastly, there is the "is-ought problem". Just by knowing how things are today or were in the past is not always enough to determine how things should be in the future. The Scientific Method has something to offer here if different policies can be tried out experimentally or occurred in the past due to accidents of history but if those options are not available we are largely left to our older methods of thinking and intuition.</li>
 </ol>
 As a layperson whenever you come across new information, filter it through the following test to know how much trust to put on it
@@ -69,5 +69,7 @@ The color scheme used above will also be used in the rest of this book  when ma
 To conclude, it is important to note that despite its drawbacks the Scientific Method is the only reliable method of knowing the nature of reality known to man. We have known more about the world in the past 300 years than the 100000 years before that combined, thanks to this method.
 <h3><strong>References</strong></h3>
 Scientific Method : <a href="https://www.youtube.com/watch?v=i8wi0QnYN6s">https://www.youtube.com/watch?v=i8wi0QnYN6s</a>
+
+More to be added.
 
 &nbsp;
