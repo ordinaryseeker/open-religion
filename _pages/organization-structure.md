@@ -39,4 +39,4 @@ Here is brief description of each level
 <h3>References</h3>
 Comparision Open Source Community Governance : <a href="https://randyfay.com/content/how-do-open-source-communities-govern-themselves">https://randyfay.com/content/how-do-open-source-communities-govern-themselves</a>
 
-Ubuntu Code of Conduct : <a href="https://www.ubuntu.com/about/about-ubuntu/conduct">https://www.ubuntu.com/about/about-ubuntu/conduct</a>
+Ubuntu Governance : <a href="https://www.ubuntu.com/about/about-ubuntu/conduct">https://www.ubuntu.com/community/governance</a>
