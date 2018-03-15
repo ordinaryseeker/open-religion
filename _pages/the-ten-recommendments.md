@@ -64,10 +64,9 @@ Based on the principles we have seen throughout this book, it would be dishonest
  	<li>Is this the result of multiple large controlled and replicated studies? -&gt; <strong>Strong Trust</strong></li>
 </ol>
 </li>
- 	<li>When arguing with a person you do not agree with, follow these rules
+ 	<li>When discussing any idea with a person you do not agree with, follow these rules
 <ol>
- 	<li>Treat them with respect and know your own fallibility. No Insults.</li>
- 	<li>Give clear reasons and counter-reasons</li>
+ 	<li>First. Try to summarize their position in a way that they agree with it.</li>
  	<li>Do not hesitate to say "I don't know".</li>
 </ol>
 </li>
