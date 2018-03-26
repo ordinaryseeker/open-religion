@@ -10,7 +10,7 @@ published: true
 post_date: 2017-03-23 02:51:17
 ---
 <h3>Motivation</h3>
-Imagine freeing your mind from petty worries or even ending all preventable human suffering. This is the reward of correctly understanding and internalizing our place in space and history.
+Correctly understand and internalize our place in space and history.
 
 (Added placeholders below)
 <h3>Content</h3>
@@ -34,7 +34,7 @@ The world is very old and humans are relatively very recent and civilization eve
 
 <strong>Timeline of human's discoveries.</strong>
 
-The vastness of time and space is truly humbling but when did we figure out that we live in such an old and large universe. As you can see in the timeline of scientific discoveries below, it was only in the past 300 years or so that we finally started to correctly understand even basic things that we take for granted today like the cause of day and night and the seasons, elements which were like hydrogen, carbon, oxygen etc instead of fire, earth, water, wind and sky, that diseases are caused by  bacteria and viruses instead of God's fury or demons.
+The vastness of time and space is truly humbling but when did we figure out that we live in such an old and large universe. As you can see in the timeline of scientific discoveries below, it was only in the past 300 years or so that we finally started to correctly understand even basic things that we take for granted today like the cause of day and night and the seasons, that diseases are caused by  bacteria and viruses instead of God's fury or demons.
 
 (placeholder : link for now. need a picture for this )
 
