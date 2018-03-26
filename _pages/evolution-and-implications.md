@@ -2,12 +2,12 @@
 ID: 55
 post_title: Evolution and its Implications
 author: ordinaryseeker
-post_date: 2017-03-23 03:08:33
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.theopenreligion.org/toc/the-story-so-far/evolution-and-implications/
 published: true
+post_date: 2017-03-23 03:08:33
 ---
 <h3>Motivation</h3>
 Darwin's Theory of Evolution is a seemingly ridiculous theory that explains the origins of human beings and almost all life forms on earth and yet it has gained a massive consensus among scientists. Most importantly, it uncovers a strange phenomena and has huge implications for designing new guidelines for personal and social life.
@@ -20,13 +20,13 @@ It has been nearly 150 years since this discovery but we seldom stop to think ab
 
 Much of the society is  still ignorant about this, while a significant portion is in active denial. But for those of us who have accepted the truth of evolution, we have a task on our hands. We have to dig into the implications of this momentous discovery and design new guidelines for personal and social life for humanity going forward or re-validate old ones. An incomplete list of implications is below, please help complete this list by adding your candidates to the comments.
 <ol>
- 	<li>God : Most likely, if there is a creator of the universe, it does not intervene in lives of earthly species.</li>
- 	<li>Purpose : Most likely, life has no inherent purpose.</li>
+ 	<li>God : Most likely, if there is a creator of the universe, it does not intervene in the daily lives of earthly species.</li>
+ 	<li>Purpose : Most likely, life has no inherent grand purpose.</li>
+ 	<li>Happiness : Evolution has "designed" us to spread copies of our genes but that does not mean that it has also "designed" us to live happy, fulfilled lives. Therefore, when necessary and possible, we need to work around our biology to live happier lives.</li>
  	<li>Body : Most likely, our bodies have evolved for daily routines very different than our current daily routines and hence new guidelines are needed to help us adapt to this new environment. For example in the past food was more scarce, physical activity was higher</li>
- 	<li>Minds : Most likely, our minds have evolved for daily routines very different than our current routines and hence new guidelines are needed to help us adapt to this new environment. For example in the past the nature of dangers would have been different than today and also number of distractions.</li>
+ 	<li>Minds : Most likely, our minds have evolved for daily routines very different than our current routines and hence new guidelines are needed to help us adapt to this new environment. For example in the past the nature of dangers and distractions would have been different than today.</li>
  	<li>Morality : Most likely, notions of right and wrong need to be re-evaluated in light of the fact that all of us a products of this blind process and hence have the equal right to act as we please as long as we do not harm others.</li>
  	<li>Social Structure : The current social structure has evolved out of random process analogous to the biological process. For example a child born into a rich family does not deserve it any more than a child born into a poor family but we act like they do.</li>
- 	<li></li>
 </ol>
 <h3></h3>
 <h3>Technical Notes</h3>
