@@ -14,7 +14,11 @@ Why is there something in the universe rather than nothing? How does life form o
 
 Even if we have never thought about these deep Personal Questions, we subconsciously absorb these answers from the society around us and we live our default answer to them everyday in how we work, how we love, how we hate, how we enjoy and how we suffer.
 
-Unfortunately, most default answers are not optimal. They result in a lot of unnecessary suffering to their owners and those around them. Our mission is to give you the tools required to arrive at your optimum answers to these Personal Questions so that you can minimize suffering and maximize joy in your life.
+Unfortunately, most default answers are not the best possible answers for those who live them. They result in a lot of avoidable suffering to their owners and those around them.
+
+The mission of Open Religion is to give you the tools required to arrive at the unique best possible answers to these Personal Questions for yourself so that you can minimize suffering and maximize joy in your life.
+
+That is all fine, you might say, but why start a religion?
 
 Across every region of the Earth, at various times in history , some people were able to attain the wisdom that helped them answer these personal questions. For many of them, these answers came as a result of some extraordinary experiences. Experiences, that may have been difficult to capture into words and so they had to take the time to make sense of these answers. Some of these wise people even tried to help others learn these answers but they ran into a transmission problem.
 
