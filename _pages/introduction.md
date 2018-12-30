@@ -10,15 +10,17 @@ post_date: 2017-01-26 08:13:33
 ---
 We live in a magical world. Not the kind of magic we see in movies or in magic shows but a kind of magic that is almost invisible to us, hidden in plain sight, unless we take the effort to stop, observe and experience.
 
-Why is there something in the universe rather than nothing? How does life form out of lifeless material? How does life acquire consciousness? These Big Questions have troubled philosophers for millennia. Most of us do not spare much time to think about these questions but the stories used to explain the creation of the universe and human beings affects our life through deeply Personal Questions like, What is the purpose of my life? How should I treat myself? How should I treat others?
+Why is there something in the universe rather than nothing? How does life form out of lifeless material? How does life acquire consciousness? These Big Questions have troubled philosophers for millennia. Most of us do not spare much time to think about these questions but the stories used to explain the creation of the universe and human beings affect our life through deeply Personal Questions like, What is the purpose of my life? How should I treat myself? How should I treat others?
 
-Even if we have never thought about these deep Personal Questions, we subconsciously absorb these answers from the society around us and we live our default answer to them everyday in how we work, how we love, how we hate, how we enjoy and how we suffer.
+Even if we have never thought about these deep Personal Questions, we subconsciously absorb these answers from the society around us and they become our Default Settings. Unbeknownst to us, these Default Settings drive our life everyday in how we desire, how we act, how we love, how we hate, how we enjoy and how we suffer.
 
-Unfortunately, most default answers are not the best possible answers for those who live them. They result in a lot of avoidable suffering to their owners and those around them.
+If you were born and raised in a loving, caring and secure family, community and society, your Default Settings may be good enough to take you through your life without much despair. But on the other hand if you were surrounded by hatred, greed and insecurity, your Default Settings are probably causing a lot of avoidable suffering to yourself and those around you.
 
-The mission of Open Religion is to give you the tools required to arrive at the unique best possible answers to these Personal Questions for yourself so that you can minimize suffering and maximize joy in your life.
+<strong>The mission of Open Religion is to give you the tools required to recognize and fine tune your Default Settings so that you can minimize suffering and maximize joy in your life.</strong>
 
-That is all fine, you might say, but why start a religion?
+Fortunately or unfortunately, this is not just a matter a stating what the right answer is. There are two reasons for this. First, your optimum answers are unique to you and no one else can figure them out for you. Second, even if somebody had the exact answer that you need, we do not have the technology to install these answers in your brain.
+
+This brings us to why this is a religion, instead of just a book. Just reading or hearing even the most perfect answer will make very little difference to your life. Your Default Settings are so deeply ingrained and outside your conscious control that knowledge alone is not sufficient to change them.
 
 Across every region of the Earth, at various times in history , some people were able to attain the wisdom that helped them answer these personal questions. For many of them, these answers came as a result of some extraordinary experiences. Experiences, that may have been difficult to capture into words and so they had to take the time to make sense of these answers. Some of these wise people even tried to help others learn these answers but they ran into a transmission problem.
 
