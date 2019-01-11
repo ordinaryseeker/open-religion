@@ -88,6 +88,12 @@ post_date: 2017-03-23 05:24:32
 <li>When your body starts failing beyond repair, embrace death with a smile.</li>
 </ul>
 </li>
+<li><strong>Thou shall seek to improve this Manual</strong>
+<ul>
+<li>This is an Incomplete Manual and it will stay incomplete forever</li>
+<li>You will bring your unique perspective to improve upon it in small and big ways.</li>
+</ul>
+</li>
 </ol>
 <p>[maxbutton id="1" ]</p>
 
