@@ -8,7 +8,16 @@ permalink: http://www.theopenreligion.org/
 published: true
 post_date: 2017-01-26 08:13:33
 ---
-We live in a magical world. Not the kind of magic we see in movies or in magic shows but a kind of magic that is almost invisible to us, hidden in plain sight, unless we take the effort to stop, observe and experience.
+<h2>Motivation</h2>
+Being born human is in some ways like waking up in a theater with some unknown movie already playing on the big screen. You watch it for some time in a confused state. Slowly you learn some plot and character information from others around you. But they were not there from the beginning either, so their descriptions of the movie are also just interpretations of the interpretations that they heard from others. So you have to keep updating what you thought you knew as new information comes in.
+
+In time, you learn enough to enjoy parts of movie, be hurt by parts of it and even be amazed by parts of it but you are forced out of the theater long before the movie is over or you have figured everything out and then its “The End” for you.
+
+It would have been nice to have an Owner’s Manual to make sense of this experience and make it more enjoyable. Unfortunately, your body and the experience it is in does not come with an Owner's Manual. So this is an incomplete Owner’s Manual that the rest of us have put together for You. It is just a collection of practices and interpretations that atleast some of us have found helpful. It is incomplete now and it will remain incomplete forever.
+
+Read it, try it, ignore it or improve upon it. It is yours now. Enjoy this magical ride.
+<h2>Content</h2>
+We live in a magical world. Not the kind of magic we see in fantasy movies or in magic shows but a kind of magic that is so pervasive that it is almost invisible to us. Hidden in plain sight, like water to a fish, unless we take the effort to stop, get curious and experience.
 
 Why is there something in the universe rather than nothing? How does life form out of lifeless material? How does life acquire consciousness? These Big Questions have troubled philosophers for millennia. Most of us do not spare much time to think about these questions but the stories used to explain the creation of the universe and human beings affect our life through deeply Personal Questions like, What is the purpose of my life? How should I treat myself? How should I treat others?
 
@@ -55,10 +64,6 @@ This is not because the founders of Open Religion are more "enlightened" than th
 Founders of older religions only had access to concepts passed down in oral myths and legends limited to their geographical regions and they had to convey these to a mostly uneducated population who had access to even more limited concepts with mostly oral discourse. Science has expanded the concepts one can use to make sense of experiences and communication technology and education has brought knowledge about these concepts to the fingertips of a vast majority of the human population regardless of their geographical regions of origin.
 
 But the progress of science and technology has been so rapid in the past 100 years, that most of humanity has not had the time to update its Default Settings. This has lead to the huge productivity gains from technology being applied to magnifying our petty pleasures and insecurities rather than towards reducing suffering. We have mastered the outside world enough that our technologies like nuclear weapons and our consumption appetites threaten to destroy the entire planet that hosts us but we have neglected our inner worlds enough that our happiness levels are decreasing even in the midst of this increasing abundance.
-
-Being born human is in some ways like waking up in a theater with some unknown movie already playing on the big screen. You watch it for some time in a confused state. Slowly you learn some plot and character information from others who were there before you but not from the beginning. In time you learn enough to enjoy parts of it, to be hurt by parts of it and even be amazed by parts of it but you are forced out of the theater long before the movie is over or you have figured everything out and then its “The End” for you.
-
-It would have been nice to have an Owner’s Manual to make sense of this experience and make it more enjoyable. Well this is the Owner’s Manual that the rest of us have put together for You. But it is incomplete and will remain incomplete forever and it is yours now to try, ignore or improve upon. Enjoy this magical ride.
 
 [maxbutton id="1" ]
 
