@@ -17,7 +17,7 @@ In time, you learn enough to enjoy parts of movie, but large parts still leave y
 
 It would have been nice to have an Owner’s Manual to make sense of this experience and make it more enjoyable. Unfortunately, you are not born with such an Owner's Manual. So the rest of us have put together this incomplete Owner’s Manual for You.
 
-It is just a collection of interpretations and practices that atleast some of us have found helpful. Read it, try it, ignore it or improve upon it. It is yours now. Our hope is that by standing on the shoulders of those who came before you, you can see further than any of us.
+It is just a collection of interpretations about the nature of this universe and practices for taking care of self and others, that atleast some of us have found helpful. Read it, try it, ignore it or improve upon it. It is yours now. Our hope is that by standing on the shoulders of those who came before you, you can see further than any of us.
 
 Enjoy this magical ride.
 <h2>Content</h2>
