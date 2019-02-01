@@ -9,11 +9,8 @@ published: true
 post_date: 2017-01-26 08:13:33
 ---
 <h2>Motivation</h2>
-
 Why bother reading, trying or co-creating a religion?
-
 <h2>Summary</h2>
-
 Being born human is in some ways like waking up in a theater with some unknown fantasy movie already playing on the big screen. You watch it for sometime in a confused state. Who are these weird characters? What do all these strange words mean? What is everyone trying to do?
 
 Slowly you learn some story and character information from others around you. But they were not there from the beginning either, so their descriptions of the movie are also just interpretations of the interpretations that they heard from others.
@@ -25,9 +22,7 @@ It would have been nice to have an Owner’s Manual to make sense of this experi
 It is just a collection of interpretations about the nature of this universe and practices for taking care of self and others, that atleast some of us have found helpful. Read it, try it, ignore it or improve upon it. It is yours now. Our hope is that by standing on the shoulders of those who came before you, you can see further than any of us.
 
 Enjoy this magical ride.
-
-<h2>Content</h2>
-
+<h2>Details</h2>
 We live in a magical world. Not the kind of magic we see in fantasy movies or in magic shows but a kind of magic that is so pervasive that it is almost invisible to us. Hidden in plain sight, like water to a fish, unless we take the effort to stop, get curious and experience.
 
 Why is there something in the universe rather than nothing? How does life form out of lifeless material? How does life acquire consciousness? These Big Questions have troubled philosophers for millennia. Most of us do not spare much time to think about these questions but the stories used to explain the creation of the universe and human beings affect our life through deeply Personal Questions like, What is the purpose of my life? How should I treat myself? How should I treat others?
