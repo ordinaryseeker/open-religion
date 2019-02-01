@@ -29,7 +29,7 @@ Why is there something in the universe rather than nothing? How does life form o
 
 Even if we have never thought about these Personal Questions, we subconsciously absorb these answers from the society around us and they become our Default Settings. Unbeknownst to us, these Default Settings drive every aspect of our life, what we desire, how we act, how we love, how we suffer and even who we think we are.
 
-If you were born and raised in a loving, caring and secure family, community and society, your Default Settings may be good enough to take you through your life without much chronic despair. But if you were surrounded by hatred, greed or insecurity, your Default Settings are probably causing a lot of avoidable suffering to yourself and those around you.
+If you were born and raised in a loving, caring and secure family, community and society, your Default Settings may be good enough to take you through your life without much chronic despair. But if you experienced insecurity, rejection, your Default Settings are probably causing a lot of avoidable suffering to yourself and those around you.
 
 <strong>The mission of Open Religion is to give you the tools required to recognize and fine tune your Default Settings so that you can minimize suffering and maximize joy in your life.</strong>
 
