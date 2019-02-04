@@ -8,7 +8,7 @@ permalink: http://www.theopenreligion.org/
 published: true
 post_date: 2017-01-26 08:13:33
 ---
-<h2>Motivation</h2>
+<h2> Motivation</h2>
 Why bother reading, trying or co-creating a religion?
 <h2>Summary</h2>
 Being born human is in some ways like waking up in a theater with some unknown fantasy movie already playing on the big screen. You watch it for sometime in a confused state. Who are these weird characters? What do all these strange words mean? What is everyone trying to do?
@@ -69,13 +69,17 @@ Open Religion is an attempt to fix both of these problems. It aims to fix the La
 
 This is not because the founders of Open Religion are more "enlightened" than the founders of older religions, it is just the reflection of the incredible progress humanity has made in science, technology and governance in the past 300 years.
 
-Founders of older religions only had access to concepts passed down in oral myths and legends limited to their geographical regions and they had to convey these to a mostly uneducated population who had access to even more limited concepts with mostly oral discourse. Science has expanded the concepts one can use to make sense of experiences and communication technology and education has brought knowledge about these concepts to the fingertips of a vast majority of the human population regardless of their geographical regions of origin.
+Founders of older religions only had access to concepts passed down in oral myths and legends limited to their geographical regions and they had to convey these to a mostly uneducated population who had access to even more limited concepts with mostly oral discourse.
+
+Science has expanded the concepts one can use to make sense of experiences and communication technology and education has brought knowledge about these concepts to the fingertips of a vast majority of the human population regardless of their geographical regions of origin.
+
+With this, Open Religion has the luxury to learn lessons from history and also has access to more responsive governance models like Open Source Software, cooperatives, and content curation mechanisms like upvoting in Reddit, moderation in Wikipedia etc.
 
 But the progress of science and technology has been so rapid in the past 100 years, that most of humanity has not had the time to update its Default Settings. This has lead to the huge productivity gains from technology being applied to magnifying our petty pleasures and insecurities rather than towards reducing suffering.
 
 We have mastered the outside world enough that our technologies like nuclear weapons and our consumption appetites threaten to destroy the entire planet that hosts us but we have neglected our inner worlds enough that our happiness levels are decreasing even in the midst of this increasing abundance.
 
-As we are embarking on new adventures like colonizing space, creating artificial intelligence, modifying genes and slowing down aging, it may be helpful to slow down and check-in with ourselves, why we are doing these, so that we can do it in ways that increase joy in the lives of ourselves and others.
+As we are embarking on new adventures like colonizing space, creating artificial intelligence, modifying genes and slowing down aging, it may be helpful to slow down and check-in with ourselves, why we are doing these, so that we can proceed in ways that increase joy in the lives of ourselves and others.
 
 Enjoy this magical ride.
 
