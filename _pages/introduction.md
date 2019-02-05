@@ -9,32 +9,29 @@ published: true
 post_date: 2017-01-26 08:13:33
 ---
 <h2> Motivation</h2>
-
 Why bother reading, trying or co-creating a religion?
-
 <h2>Summary</h2>
-
 Being born human is in some ways like waking up in a theater with some unknown fantasy movie already playing on the big screen. You watch it for sometime in a confused state. Who are these weird characters? What do all these strange words mean? What is everyone trying to do?
 
 Slowly you learn some story and character information from others around you. But they were not there from the beginning either, so their descriptions of the movie are also just interpretations of the interpretations that they heard from others.
 
-In time, you learn enough to enjoy parts of movie, but large parts still leave you confused, in self doubt and in suffering. Before you have figured everything out, you are forced out of the theater and then its “The End” for you.
+In time, you learn enough useful information to enjoy parts of movie, but a sizable amount of information proves incorrect leaving you confused, in self doubt and in suffering. Before you have figured everything out, you are forced out of the theater and then its “The End” for you.
 
-It would have been nice to have an Owner’s Manual to make sense of this experience and make it more enjoyable. Unfortunately, you are not born with such an Owner's Manual. So the rest of us have put together this incomplete Owner’s Manual for You.
+It would have been nice to have an Owner’s Manual to make sense of this experience and make it more enjoyable. Unfortunately, none of us are born with such an Owner's Manual.
 
-It is just a collection of interpretations about the nature of this universe and practices for taking care of self and others, that atleast some of us have found helpful. Read it, try it, ignore it or improve upon it. It is yours now. Our hope is that by standing on the shoulders of those who came before you, you can see further than any of us.
+So the rest of us have put together this Owner’s Manual for You. It is incomplete but our hope is that by standing on the shoulders of those who came before you, you can see further than any of us.
+
+This Owner's Manual is just a collection of interpretations about the nature of this universe and practices for taking care of self and others. At least some of us have found different combinations of these to be helpful. So read it, try it, mix it, ignore it or improve upon it. It is yours now.
 
 Enjoy this magical ride.
-
 <h2>Details</h2>
-
 We live in a magical world. Not the kind of magic we see in fantasy movies or in magic shows but a kind of magic that is so pervasive that it is almost invisible to us. Hidden in plain sight, like water to a fish, unless we take the effort to stop, get curious and experience.
 
 Why is there something in the universe rather than nothing? How does life form out of lifeless material? How does life acquire consciousness? These Big Questions have troubled philosophers for millennia. Most of us do not spare much time to think about these questions but the stories used to explain the creation of the universe and human beings affect our life through deeply Personal Questions like, What is the purpose of my life? How should I treat myself? How should I treat others?
 
 Even if we have never thought about these Personal Questions, we subconsciously absorb these answers from the society around us and they become our Default Settings. Unbeknownst to us, these Default Settings drive every aspect of our life, what we desire, how we act, how we love, how we suffer and even who we think we are.
 
-If you were born and raised in a loving, caring and secure family, community and society, your Default Settings may be good enough to take you through your life without much chronic despair. But if you experienced insecurity, rejection, your Default Settings are probably causing a lot of avoidable suffering to yourself and those around you.
+If you were born and raised in a loving, caring and secure family, community and society, your Default Settings may be good enough to take you through your life without much chronic despair. But if you experienced insecurity, rejection, or abuse, your Default Settings are probably causing a lot of avoidable suffering to yourself and those around you.
 
 <strong>The mission of Open Religion is to give you the tools required to recognize and fine tune your Default Settings so that you can minimize suffering and maximize joy in your life.</strong>
 
@@ -44,7 +41,7 @@ This brings us to why this is a religion, instead of just a book. Just reading 
 
 Of-course, Open Religion is not the first to try this approach. Across every region of the Earth, in every era, people have been able to attain this wisdom. For many of them, the first hints of these answers came in the form of Extraordinary Experiences while going through some physical hardship like an illness, starvation, seizures or near death accidents. These experiences shook them to their core and made them question their Default Settings.
 
-During these Extraordinary Experiences, they felt like they had come in contact with some Higher Power which underlies and creates all of reality (more on this below). In the awe of this Higher Power, whatever goals they were chasing before, be it the pursuit of pleasures, status or wealth, felt like petty childish games and all fears like the fear of being imperfect or unloved or even the fear of death dissolved into a Loving Bliss.
+During these Extraordinary Experiences, some they felt like they had come in contact with some Higher Power which underlies and creates all of reality (more on this below). In the awe of this Higher Power, whatever goals they were chasing before, be it the pursuit of pleasures, status or wealth, felt like petty childish games and all fears like the fear of being imperfect or unloved or even the fear of death dissolved into a Loving Bliss.
 
 Alas, most of the times, this state of Loving Bliss does not last forever and the Default Settings of people take over again and with them come the petty human desires and fears. But once a person gets a taste of this Loving Bliss, a search begins to reunite with this Higher Power again.
 
@@ -64,11 +61,11 @@ The diagram below tries to capture this difficulty in transmitting wisdom throug
 
 <a href="http://www.theopenreligion.org/wp-content/uploads/2018/12/TransmissionProblem.png"><img class="aligncenter size-full wp-image-369" src="http://www.theopenreligion.org/wp-content/uploads/2018/12/TransmissionProblem.png" alt="" width="2733" height="1542" /></a>
 
-The second problem preventing a world of Loving Bliss is Organizational Structures. After a person who teaches the wisdom and practices of their Extraordinary Experience dies, their followers may try to individually spread their message. At some point, a follower or a follower of a follower may try to institutionalize the wisdom and practices as they best understand it. They themselves may or may not have had any Extraordinary Experience but they may have the skills and resources needed to build an institution.
+The second problem preventing a world of Loving Bliss is Organizational Structures. After a person who teaches the wisdom and practices of their Extraordinary Experience dies, their followers may try to individually spread their message. At some point, a follower or a follower of a follower may try to institutionalize the wisdom and practices as best as they can understand it. They themselves may or may not have had any Extraordinary Experience but they may have the skills and resources needed to build an institution.
 
 With the backing of this institution, this movement becomes more popular and widespread. Regional branches emerge. Leaders have to be appointed to run these branches. Over time this institution becomes a source of wealth, power and prestige. Any such institution attracts people who want to take control of them for their own benefit. Some checks and balances are instituted but they usually have the side effect of preventing alternate interpretations or exploration of different practices and instead follow some strict "ideal" practices that are handpicked by the leadership team.
 
-In the best case, over time, such institutions become a vague caricature of the original founders vision, rich in symbolism but devoid of the true content. In the worst case they become just obsessed with maintaining and increasing their own power. Combine this with the Language Problem we discussed above and it is easy to see how any religion can become a force of oppression rather than Loving Bliss.
+In the best case, over time, such institutions become a vague caricature of the original founders vision, rich in symbolism but lacking in the soul that once gave life to these symbols. In the worst case they become just obsessed with maintaining and increasing their own power. Combine this with the Language Problem we discussed above and it is easy to see how any religion can become a force of oppression rather than Loving Bliss.
 
 Open Religion is an attempt to fix both of these problems. It aims to fix the Language Problem by sharing multiple methods of direct experience of the Higher Power and multiple interpretations of this experience. It aims to fix the Organizational Structure problem by making it mostly decentralized with some checks and balances, so that people can add their own methods and interpretations and best practices.
 
@@ -86,7 +83,7 @@ We have mastered the outside world enough that our technologies like nuclear wea
 
 As we are embarking on new adventures like colonizing space, creating artificial intelligence, modifying genes and slowing down aging, it may be helpful to slow down and check-in with ourselves, why we are doing these, so that we can proceed in ways that increase joy in the lives of ourselves and others.
 
-Enjoy this magical ride.
+This new beginning starts with you. Enjoy this magical ride.
 
 [maxbutton id="1" ]
 
