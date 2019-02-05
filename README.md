@@ -1,2 +1,2 @@
 # open-religion
-An Owner's Manual for this magical life
+An Incomplete Manual for this Magical Life
