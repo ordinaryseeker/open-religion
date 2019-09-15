@@ -9,6 +9,7 @@ published: true
 post_date: 2017-01-26 08:13:33
 ---
 <h2>Motivation</h2>
+
 <span style="font-weight: 400;">Religion is a dirty word.</span>
 
 <span style="font-weight: 400;">For atheists and agnostics, Religion is the source of superstition, oppression and even murder and war.</span>
@@ -16,7 +17,9 @@ post_date: 2017-01-26 08:13:33
 <span style="font-weight: 400;">For religious people, every other Religion except their own is either idiotic, misguided or the work of evil forces.</span>
 
 <span style="font-weight: 400;">So why bother reading, trying or co-creating something that nobody wants?</span>
+
 <h2>Summary</h2>
+
 <span style="font-weight: 400;">Being born human is in some ways like waking up on a stage with some unknown play already in progress all around you. You watch it for sometime in a confused state. Who are these weird characters? What do all these strange words mean? What is everyone trying to do? What should I do?</span>
 
 <span style="font-weight: 400;">Slowly you learn some story and character information from others around you. But they were not there from the beginning either, so their descriptions of the play are also just interpretations of the interpretations that they heard from others.</span>
@@ -32,7 +35,9 @@ post_date: 2017-01-26 08:13:33
 <span style="font-weight: 400;">Our hope is that by standing on the shoulders of those who came before you, you can see further than any of us. This Manual is your's now. Do whatever you want with it. Read it, try it, ignore it, burn it or improve it.</span>
 
 <span style="font-weight: 400;">Anyway, enjoy this magical play.</span>
+
 <h2><span class="md-line md-end-block md-focus">Details</span></h2>
+
 <span class="md-line md-end-block">We live in a magical world. Not the kind of magic we see in fantasy movies or in magic shows but a kind of magic that is so pervasive that it is almost invisible to us. Hidden in plain sight, like water to a fish, unless we take the effort to stop, get curious and experience.</span>
 
 <span class="md-line md-end-block">Why is there something in the universe rather than nothing? How does life form out of lifeless material? How does life acquire consciousness? These Big Questions have troubled philosophers for millennia. Most of us do not spare much time to think about these questions but the stories used to explain the creation of the universe and human beings affect our life through deeply Personal Questions like, What is the purpose of my life? How should I treat myself? How should I treat others?</span>
