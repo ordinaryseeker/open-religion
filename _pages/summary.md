@@ -18,7 +18,7 @@ post_date: 2019-12-13 20:59:37
 <!-- /wp:tadv/classic-paragraph -->
 
 <!-- wp:image {"align":"center","id":402,"width":580,"height":327,"sizeSlug":"large","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://www.theopenreligion.org/wp-content/uploads/2019/12/Summary.png" target="_blank" rel="noreferrer noopener"><img src="https://i1.wp.com/www.theopenreligion.org/wp-content/uploads/2019/12/Summary.png?fit=1024%2C579&amp;ssl=1" alt="" class="wp-image-402" width="580" height="327"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://www.theopenreligion.org/wp-content/uploads/2019/12/Summary.png"><img src="https://i1.wp.com/www.theopenreligion.org/wp-content/uploads/2019/12/Summary.png?fit=1024%2C579&amp;ssl=1" alt="" class="wp-image-402" width="580" height="327"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:tadv/classic-paragraph -->
